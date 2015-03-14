@@ -5,7 +5,7 @@ It allows to post a simple text message.
 
 ## Usage
 
-0. Save [etumblr.el](https://raw.githubusercontent.com/astanin/etumblr/master/etumblr.el)
+0. Save [etumblr.el](https://raw.githubusercontent.com/astanin/emacs-etumblr/master/etumblr.el)
    in your Emacs `load-path`.
 
 1. Register your app, set callback to "http://localhost:12345/",
